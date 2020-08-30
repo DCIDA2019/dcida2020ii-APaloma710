@@ -20,6 +20,11 @@
 
 `git pull https://github.com/alxogm/DCIDA2020II master` 
 
+<<<<<<< HEAD
+=======
+En caso de obtener un error que menciona "unrelated histories" intenta añadir el flag --allow-unrelated-histories 
+
+>>>>>>> 735a608c16f41ee9d5d8c6f9da851f355141839c
   5.- Cuando quieras actualizar tu repositorio, para que contenga los cambios locales que hayas hecho en tu directorio de trabajo, debes primero añadir los archivos a rastrear:
 
 `git add .`(Si todos los cambios se añaden) ó 
