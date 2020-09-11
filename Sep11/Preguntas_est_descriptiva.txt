@@ -1,0 +1,18 @@
+Equipo 3: Andrea, Roberto, José de Jésus, Paloma
+Base de datos: https://www.indexmundi.com/map/?t=0&v=26&r=xx&l=en
+
+Tomaremos las tablas con información de:
+
+-Deat rate
+-Hospital bed density
+-Obesity density
+
+Preguntas que podemos responder con estadística descriptiva:
+1. Países con mayor/menor tasa de mortalidad
+2. Países con mayor/menor densidad de camas de hospital
+3. Paises con mayor/menor índice de obesidad
+4. Promedio de la tasa de muerte en países con densidad de camas menor a 5 camas/1000 habitantes
+5. Promedio de muertes/1000 habitantes en países con índice de obesidad mayor a 75%
+6. Países con índice de obesidad mayor a 80%, densidad de camas de hospital menos a 5 camas/1000 habitantes
+7. Porcentaje de países con tasa de muerte mayor a 10/1000 habitantes y camas de hospital menor a 5 camas/ 1000 habitantes
+8. Porcentaje de países con índice de obesidad mayor a 75 % y camas de hospital menor a 5 camas/ 1000 habitantes
