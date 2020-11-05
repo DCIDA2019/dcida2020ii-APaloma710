@@ -4,6 +4,7 @@ Ejercicio:
   - Usa la minimización de chisq. 
   - Usa tu código de mcmc. 
   - Compara los resultados, con los valores verdaderos (dados en clase)
+  - Usa emcee para volver a hacer el proceso de inferencia, y compara con los resultados anteriores. 
   
   
   
